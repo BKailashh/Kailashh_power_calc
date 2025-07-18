@@ -1,4 +1,4 @@
-# GOAT Kailashh Power Backup Calculator
+# Power Backup Calculator
 
 A web-based calculator that helps users estimate battery backup duration for home appliances during power outages.
 
